@@ -1,0 +1,14 @@
+{
+  "name": "comps_test",
+  "version": "0.0.1",
+  "description": "comps exported as ES modules.",
+  "keywords": "es6, modules, stdlib, util",
+  "homepage": "",
+  "bugs": "",
+  "repository": "ajrothwell/comps_test",
+  "license": "MIT",
+  "jsnext:main": "comps_test.js",
+  "main": "comps_test.js",
+  "module": "comps_test.js",
+  "sideEffects": false
+}
