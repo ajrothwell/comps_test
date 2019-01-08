@@ -7,8 +7,6 @@
   "bugs": "",
   "repository": "ajrothwell/comps_test",
   "license": "MIT",
-  "jsnext:main": "comps_test.js",
-  "main": "comps_test.js",
   "module": "comps_test.js",
   "sideEffects": false
 }
