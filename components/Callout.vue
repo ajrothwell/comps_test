@@ -50,7 +50,7 @@
   };
 </script>
 
-<style scoped>
+<!-- /* <style scoped>
 
 .wrapper {
 
@@ -62,4 +62,4 @@
   height: auto;
 }
 
-</style>
+</style> */ -->
